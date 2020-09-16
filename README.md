@@ -1,4 +1,4 @@
-# IrishCensus-Python
+# IrishCensus
 Extract demographic and socio-economic information of all Small Areas in Ireland from Irish census data, following Hu et al. (2020)
 
 ## Reference
